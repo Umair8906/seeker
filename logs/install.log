@@ -1,0 +1,88 @@
+=====================
+INSTALLING FOR DEBIAN
+=====================
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3 is already the newest version (3.11.4-5+b1).
+0 upgraded, 0 newly installed, 0 to remove and 738 not upgraded.
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-pip is already the newest version (23.3+dfsg-1).
+0 upgraded, 0 newly installed, 0 to remove and 738 not upgraded.
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-requests is already the newest version (2.31.0+dfsg-1).
+python3-requests set to manually installed.
+0 upgraded, 0 newly installed, 0 to remove and 738 not upgraded.
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-packaging is already the newest version (23.1-1).
+python3-packaging set to manually installed.
+0 upgraded, 0 newly installed, 0 to remove and 738 not upgraded.
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Suggested packages:
+  python-psutil-doc
+The following NEW packages will be installed:
+  python3-psutil
+0 upgraded, 1 newly installed, 0 to remove and 738 not upgraded.
+Need to get 192 kB of archives.
+After this operation, 1077 kB of additional disk space will be used.
+Get:1 http://kali.mirror1.gnc.am/kali kali-rolling/main arm64 python3-psutil arm64 5.9.5-1 [192 kB]
+Fetched 192 kB in 5s (39.0 kB/s)
+Selecting previously unselected package python3-psutil.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 309478 files and directories currently installed.)
+Preparing to unpack .../python3-psutil_5.9.5-1_arm64.deb ...
+Unpacking python3-psutil (5.9.5-1) ...
+Setting up python3-psutil (5.9.5-1) ...
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+php is already the newest version (2:8.2+93).
+0 upgraded, 0 newly installed, 0 to remove and 738 not upgraded.
+
+--------------------
+
+=========
+COMPLETED
+=========
+
